@@ -28,7 +28,7 @@ Interactive Excel dashboard analyzing US YouTube trending video performance usin
 
   
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ## 🔎 Pivot / Analysis
 ![Pivot Analysis](images/pivot_analysis.png)
